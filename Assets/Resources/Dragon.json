@@ -1,0 +1,13 @@
+{
+  "dragonName": "DD",
+  "image": "DD",
+  "dragonTypeNum": 3,
+  "hatched": false,
+  "breed": "red",
+  "getEgg": false,
+  "strength": 30,
+  "intelligence": 30,
+  "hp": 30,
+  "status": [],
+  "equipped": []
+}

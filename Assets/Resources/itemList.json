@@ -1,0 +1,396 @@
+﻿{
+  "itemarray": [
+    {
+      "engName": "scroll",
+      "chineseName": "輕功火上飄",
+      "dragonPic": "DragonPic/egg",
+      "squarePic": "SquarePic/scroll",
+      "content": "1",
+      "part": "Skills"
+    },
+    {
+      "engName": "antenna",
+      "chineseName": "嗅覺觸角",
+      "dragonPic": "DragonPic/butterfly_1",
+      "squarePic": "DragonPic/butterfly_1",
+      "content": "1",
+      "part": "Head"
+    },
+    {
+      "engName": "hair",
+      "chineseName": "閃亮的假髮",
+      "dragonPic": "DragonPic/hair_1",
+      "squarePic": "SquarePic/hair_1",
+      "content": "1",
+      "part": "Head"
+    },
+    {
+      "engName": "eggHelmet",
+      "chineseName": "蛋殼頭盔",
+      "dragonPic": "DragonPic/egg_1",
+      "squarePic": "SquarePic/egg_1",
+      "content": "1",
+      "part": "Head"
+    },
+    {
+      "engName": "claw",
+      "chineseName": "銳利的龍爪",
+      "dragonPic": "DragonPic/claw_1",
+      "squarePic": "SquarePic/claw_1",
+      "content": "1",
+      "part": "Hand"
+    },
+    {
+      "engName": "dustClaw",
+      "chineseName": "沾灰的龍爪",
+      "dragonPic": "DragonPic/blackclaw_1",
+      "squarePic": "SquarePic/blackclaw_1",
+      "content": "1",
+      "part": "Hand"
+    },
+    {
+      "engName": "paw",
+      "chineseName": "貓掌手套",
+      "dragonPic": "DragonPic/paw_1",
+      "squarePic": "SquarePic/paw_1",
+      "content": "1",
+      "part": "Hand"
+    },
+    {
+      "engName": "potion",
+      "chineseName": "特效減肥藥",
+      "dragonPic": "DragonPic/potion",
+      "squarePic": "SquarePic/scroll",
+      "content": "1",
+      "part": "Skills"
+    },
+    {
+      "engName": "fastSkill",
+      "chineseName": "疾速",
+      "dragonPic": "DragonPic/potion",
+      "squarePic": "SquarePic/scroll",
+      "content": "1",
+      "part": "Skills"
+    },
+    {
+      "engName": "fireSkill",
+      "chineseName": "噴火",
+      "dragonPic": "DragonPic/potion",
+      "squarePic": "SquarePic/scroll",
+      "content": "1",
+      "part": "Skills"
+    },
+    {
+      "engName": "wordSkill",
+      "chineseName": "識字",
+      "dragonPic": "DragonPic/potion",
+      "squarePic": "SquarePic/scroll",
+      "content": "1",
+      "part": "Skills"
+    },
+    {
+      "engName": "fish",
+      "chineseName": "魚尾巴",
+      "dragonPic": "DragonPic/fish_1",
+      "squarePic": "SquarePic/fish_1",
+      "content": "1",
+      "part": "Back"
+    },
+    {
+      "engName": "gourd",
+      "chineseName": "神秘的葫蘆",
+      "dragonPic": "DragonPic/gourd_1",
+      "squarePic": "SquarePic/gourd_1",
+      "content": "1",
+      "part": "Back"
+    },
+    {
+      "engName": "wing",
+      "chineseName": "翅膀",
+      "dragonPic": "DragonPic/wing_1",
+      "squarePic": "SquarePic/wing_1",
+      "content": "1",
+      "part": "Back"
+    },
+    {
+      "engName": "ballon",
+      "chineseName": "氣球",
+      "dragonPic": "DragonPic/ballon_1",
+      "squarePic": "SquarePic/ballon_1",
+      "content": "1",
+      "part": "Back"
+    },
+    {
+      "engName": "threePigs",
+      "chineseName": "三隻豬",
+      "dragonPic": "",
+      "squarePic": "SquarePic/threePigs",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "knife",
+      "chineseName": "小刀",
+      "dragonPic": "",
+      "squarePic": "SquarePic/knife",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "letter",
+      "chineseName": "分手信",
+      "dragonPic": "",
+      "squarePic": "SquarePic/letter",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "fire",
+      "chineseName": "火把",
+      "dragonPic": "",
+      "squarePic": "SquarePic/fire",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "iron",
+      "chineseName": "玄鐵",
+      "dragonPic": "",
+      "squarePic": "SquarePic/iron",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "powder",
+      "chineseName": "白粉",
+      "dragonPic": "",
+      "squarePic": "SquarePic/powder",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "meatBall",
+      "chineseName": "肉球",
+      "dragonPic": "",
+      "squarePic": "SquarePic/meatBall",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "whisky",
+      "chineseName": "威士忌",
+      "dragonPic": "",
+      "squarePic": "SquarePic/whisky",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "Sscissors",
+      "chineseName": "鋒利的剪刀",
+      "dragonPic": "",
+      "squarePic": "SquarePic/Sscissors",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "pearl",
+      "chineseName": "珍珠",
+      "dragonPic": "",
+      "squarePic": "SquarePic/pearl",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "redShoe",
+      "chineseName": "髒髒的紅鞋",
+      "dragonPic": "",
+      "squarePic": "SquarePic/redShoe",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "roastedPigs",
+      "chineseName": "三隻烤乳豬",
+      "dragonPic": "",
+      "squarePic": "SquarePic/roastedPigs",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "skeloton",
+      "chineseName": "骨架",
+      "dragonPic": "",
+      "squarePic": "SquarePic/skeloton",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "glue",
+      "chineseName": "強力膠",
+      "dragonPic": "",
+      "squarePic": "SquarePic/glue",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "Bscissors",
+      "chineseName": "鈍剪刀",
+      "dragonPic": "",
+      "squarePic": "SquarePic/Bscissors",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "yellowShoe",
+      "chineseName": "髒髒的黃鞋",
+      "dragonPic": "",
+      "squarePic": "SquarePic/yellowShoe",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "saw",
+      "chineseName": "超危險的電鋸",
+      "dragonPic": "",
+      "squarePic": "SquarePic/saw",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "Concealer",
+      "chineseName": "美白遮瑕膏",
+      "dragonPic": "",
+      "squarePic": "SquarePic/Concealer",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "book",
+      "chineseName": "點字書",
+      "dragonPic": "",
+      "squarePic": "SquarePic/book",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "blueShoe",
+      "chineseName": "髒髒的藍鞋",
+      "dragonPic": "",
+      "squarePic": "SquarePic/blueShoe",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "gem",
+      "chineseName": "寶石",
+      "dragonPic": "",
+      "squarePic": "SquarePic/gem",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "sword",
+      "chineseName": "鋒利的寶劍",
+      "dragonPic": "",
+      "squarePic": "SquarePic/sword",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "apple",
+      "chineseName": "新鮮蘋果",
+      "dragonPic": "",
+      "squarePic": "SquarePic/apple",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "typewriter",
+      "chineseName": "蘋果牌打字機",
+      "dragonPic": "",
+      "squarePic": "SquarePic/typewriter",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "shovel",
+      "chineseName": "鐵鍬",
+      "dragonPic": "",
+      "squarePic": "SquarePic/shovel",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "Key",
+      "chineseName": "鑰匙",
+      "dragonPic": "",
+      "squarePic": "SquarePic/key",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "mountainCarbon",
+      "chineseName": "火山煤焦",
+      "dragonPic": "",
+      "squarePic": "SquarePic/mountainCarbon",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "carbon",
+      "chineseName": "煤焦",
+      "dragonPic": "",
+      "squarePic": "SquarePic/carbon",
+      "content": "1",
+      "part": "Item"
+    },
+    {
+      "engName": "Strength5",
+      "chineseName": "力量五點",
+      "dragonPic": "",
+      "squarePic": "",
+      "content": "5",
+      "part": "AbilityPoint"
+    },
+    {
+      "engName": "Strength1",
+      "chineseName": "力量一點",
+      "dragonPic": "",
+      "squarePic": "",
+      "content": "1",
+      "part": "AbilityPoint"
+    },
+    {
+      "engName": "Intelligence5",
+      "chineseName": "智力五點",
+      "dragonPic": "",
+      "squarePic": "",
+      "content": "5",
+      "part": "AbilityPoint"
+    },
+    {
+      "engName": "Intelligence1",
+      "chineseName": "智力一點",
+      "dragonPic": "",
+      "squarePic": "",
+      "content": "1",
+      "part": "AbilityPoint"
+    },
+    {
+      "engName": "Hp5",
+      "chineseName": "健康五點",
+      "dragonPic": "",
+      "squarePic": "",
+      "content": "5",
+      "part": "AbilityPoint"
+    },
+    {
+      "engName": "Hp1",
+      "chineseName": "健康一點",
+      "dragonPic": "",
+      "squarePic": "",
+      "content": "1",
+      "part": "AbilityPoint"
+    }
+  ]
+}
