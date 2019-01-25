@@ -1,10 +1,12 @@
-### DragonEgg
+## DragonEgg
 unity Android game for the real-person RPG of NTU BIME 2018 Summer Camp
 
 ## Setup
-Download the file and open Assets/main.unity, add scenes **dragan** and **main** to Scenes In Build in build setting, and rearrange the composing in both scenes. 
-Go back to scene *main*, then you can start the game.
-For deleting the game record, go to  *C:\Users\user\AppData\LocalLow\DefaultCompany\Dragon!*   and delete **dragon.json** file.
+- Download the file and open Assets/main.unity, add scenes **dragan** and **main** to Scenes In Build in build setting
+- Rearrange the composing in both scenes
+- Go back to scene *main*, then you can start the game.
+
+For deleting the game record, go to  *C:\Users\user\AppData\LocalLow\DefaultCompany\Dragon!* and delete **dragon.json** file.
 
 
 ## About the Project
