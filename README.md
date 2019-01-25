@@ -16,4 +16,4 @@ For changing the item pic, go to itemList.json for changing the directory.
 All the dragon pictures are from one of my classmate.
 
 
-![image] (https://github.com/csinrn/DragonEgg/blob/master/demo.gif)
+![image](https://github.com/csinrn/DragonEgg/blob/master/demo.gif)
